@@ -3,3 +3,7 @@
 /target
 .settings/
 .springBeans
+
+#Intellij
+.idea
+*.iml
